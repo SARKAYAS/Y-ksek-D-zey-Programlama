@@ -1,6 +1,4 @@
-Yüksek Düzey Programlama Proje Ödevi
-
-Ayşegül SARIKAYA - 202113171059
+## Ayşegül SARIKAYA - 202113171059
 
 Proje Rapor Linki: https://github.com/SARKAYAS/Yuksek-Duzey-Programlama/blob/main/YDP-Rapor.pdf
 
