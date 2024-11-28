@@ -3,7 +3,9 @@ Yüksek Düzey Programlama Proje Ödevi
 Ayşegül SARIKAYA - 202113171059
 
 Proje Rapor Linki: https://github.com/SARKAYAS/Yuksek-Duzey-Programlama/blob/main/YDP-Rapor.pdf
+
 Proje Kod Linki: https://github.com/SARKAYAS/Yuksek-Duzey-Programlama/blob/main/predict-future-salas-linear-regression.ipynb
+
 Kaggle Linki: https://www.kaggle.com/code/sarkayas/predict-future-salas-linear-regression
 
 # Predict Future Salaries Using Linear Regression
