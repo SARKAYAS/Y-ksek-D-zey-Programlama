@@ -6,6 +6,8 @@ Proje Kod Linki: https://github.com/SARKAYAS/Yuksek-Duzey-Programlama/blob/main/
 
 Kaggle Linki: https://www.kaggle.com/code/sarkayas/predict-future-salas-linear-regression
 
+
+
 # Predict Future Salaries Using Linear Regression
 
 Bu proje, maaş verileri üzerinde basit doğrusal regresyon kullanarak gelecekteki maaşları tahmin etmeyi amaçlamaktadır. Veri analizi ve makine öğrenimi teknikleriyle desteklenen bir Python uygulamasıdır.
